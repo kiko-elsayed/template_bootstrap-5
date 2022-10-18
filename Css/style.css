@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-up{
+    background-color: #150050 ;
+}
+.nav-up .container-fluid .logo-text:hover{
+    text-shadow: 1px 1px 2px #fff, 0 0 25px rgb(255, 255, 255), 0 0 5px darkblue;
+}
+.nav-up .container-fluid .links-nav ul li a{
+    color: rgb(207, 207, 207) !important;
+}
+.nav-up .container-fluid .links-nav ul li a:hover{
+    color: #fff !important;
+}
+.carousel-inner .carousel-caption {
+    background: rgba(200, 200, 200, 0.3);
+    border-radius: 7px;
+}
+.card{
+    color: #fff;
+    border-radius: 0;
+    background-color: rgb(133, 131, 131);
+}
+.card-header {
+    padding: 0rem 0rem;
+    border-bottom: 0px ;
+}
+.card .card-body h2{
+    font-size: 40px;
+}
+.card .card-body a{
+    color: rgb(201, 200, 200);
+}
+.card .card-body a:hover{
+    color: #fff;
+}
+.accordion .accordion-item .card-link{
+    position: relative;
+}
+
+.btn:focus, .btn.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0 rgb(0 123 255 / 25%) !important;
+}
+.card{
+    background-color:#EEEEEE;  /*rgb(123, 179, 179)*/
+}
+.karim .card-body{
+    color: #150050;
+}
+.karim .card-body h3 a{
+    text-decoration-color:#CCCCFF !important ;
+    text-decoration: underline;
+    color: #9f7efa !important;
+}
+.karim .card-body h3 a:hover{
+    text-decoration-color:#4400ff !important ;
+    text-decoration: underline;
+    color: #4400ff !important;
+}
+.p-name{
+    margin: 20px 0px 70px 70px;
+    font-size: 20px;
+}
+.back-1, .back-2{
+    width: 100%;
+    height: 60vh;
+    background-image: url(../images/خلفيات-كمبيوتر-موقع-محيط-_182048401_-__.jpg);
+    background-attachment:fixed ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-fluid .row .item {
+    background-color:rgb(255, 255, 255) !important ;
+    color: black !important;
+    box-shadow: 0px 2px 9px 3px rgba(161,157,157,1);
+} 
+.back-2{
+    height: 50vh;
+    background-image: url(../images/images.jpg);
+}
+.cont .rowNum-2 .itemOne {
+    padding: 0px 12px !important;
+    box-shadow: 0px 2px 9px 3px rgba(161,157,157,1);
+    color: black;
+}
+.container-fluid .rowNum-3 .card-before-end {
+    border: 0px;
+}
+.container-fluid .rowNum-3 .card-before-end .card-body{
+    color: black !important;
+    box-shadow: 0px 2px 9px 3px rgba(161,157,157,1);
+}
+.my-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.card-link{
+    color: #150050 !important;
+    text-decoration: underline #150050;
+    font-weight: 600;
+}
+.card-link:hover{
+    text-decoration: underline #8754e6;
+    color: #8754e6 !important;
+}
+footer .container-fluid .row a{
+    text-decoration: underline #8754e6;
+    color: #8754e6;
+}
+footer .container-fluid .row a:hover{
+    text-decoration: underline #b6b2b2;
+    color: #b6b2b2;
+}
+.hr-end{
+    background-color: rgb(154, 151, 151);
+}
+
+
+.text-java{
+    background-color: #150050 !important;
+}
+.btn-copy{
+    background-color: #150050;
+    color: #fff;
+    outline: #150050;
+}
+.btn-copy:hover{
+    color: #81a5ed;
+}
+.card-underCarsoul .card-welcome{
+    color: #150050;
+}
+.card-underCarsoul .card-welcome a{
+    background-color: #150050 !important;
+    outline: #150050;
+    color: #fff;
+}
+.card-underCarsoul .card-welcome a:hover{
+    color: #81a5ed;
+}
+.download-button{
+    background-color: #150050 !important;
+    outline: #150050;
+}
+.download-button:hover{
+    background-color: #2a0492 !important;
+    outline: #2a0492;
+}
+.text-foot{
+    color: #fff !important;
+    text-decoration: underline #fff;
+    cursor:pointer
+}
+.text-foot:hover{
+    color: #8754e6 !important;
+    text-decoration: underline #8754e6;
+}
+.dropdown .dr-drop li .dropdown-item{
+    color: #150050 !important;
+    text-shadow: 1px 1px 2px #150050, 0 0 25px #150050, 0 0 5px #150050;
+}
+.dropdown .dr-drop{
+    background-color: #150050;
+}
